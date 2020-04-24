@@ -1,0 +1,7 @@
+DEPENDENCIES
+  adambook
+    git: git@github.com:adurm/adambook.git
+    revision: 7b7349f496ed3a1349e42a632279d84c15ce03e2
+
+GRAPH
+  adambook (0.1.0)
